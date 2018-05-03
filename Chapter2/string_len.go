@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func length() {
 	en := "golang"
 	ja := "Go言語"
 
