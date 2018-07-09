@@ -7,3 +7,8 @@ func integerConvert() {
 	var i myInteger = 123
 	fmt.Println(i)
 }
+
+type profile struct {
+	height int
+	weight int
+}
